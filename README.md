@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="extension/spoken-logo.png" alt="Spoken Logo" width="120" height="120">
-</p>
-
 <h1>Spoken</h1>
 
 <p>
