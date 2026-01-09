@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Temp files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+
+# Chrome extension
+*.pem
+*.crx
+*.zip
+
+# Whisper cache (optional - uncomment if you don't want to track)
+# ~/.cache/whisper/
+
+# Audio temp files
+*.mp3
+*.wav
+*.m4a
+*.webm
+*.ogg

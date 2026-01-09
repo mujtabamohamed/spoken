@@ -1,0 +1,28 @@
+{
+  "name": "yt-transcription-server",
+  "version": "1.0.0",
+  "description": "Backend server for YouTube Transcriber Chrome extension - extracts audio using yt-dlp and transcribes with Whisper API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "PATH=\"$HOME/.local/bin:$PATH\" node server.js",
+    "dev": "PATH=\"$HOME/.local/bin:$PATH\" node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "youtube",
+    "transcription",
+    "whisper",
+    "yt-dlp"
+  ],
+  "author": "",
+  "license": "MIT"
+}
