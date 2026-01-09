@@ -1,20 +1,18 @@
 <p align="center">
-  <img src="codebase/extension/spoken-logo.png" alt="Spoken Logo" width="120" height="120">
+  <img src="extension/spoken-logo.png" alt="Spoken Logo" width="120" height="120">
 </p>
 
-<h1 align="center">Spoken</h1>
+<h1>Spoken</h1>
 
-<p align="center">
+<p>
   <strong>AI-powered YouTube transcription at your fingertips.</strong><br>
   Fast, accurate, timestamped — directly in your browser.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Extension">
-  <img src="https://img.shields.io/badge/Manifest-V3-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/Whisper-AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper AI">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License">
-</p>
+---
+
+## 🎬 Demo
+![Spoken Demo](/extension/spoken-demo.gif)
 
 ---
 
@@ -404,11 +402,6 @@ Spoken is designed with privacy in mind:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Credits & Acknowledgments
 
